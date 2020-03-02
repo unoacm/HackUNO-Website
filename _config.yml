@@ -109,7 +109,7 @@ event:
         The schedule for HackUNO 2020 is still being decided.
     - question: "Will there be prizes?"
       answer: >
-        The prizes for HackUNO are still being decided.
+        Yes! We are giving out cash prizes! First place team each gets $150. Second place team each gets $100. Third place team each gets $50.
 
   # This is the message you'll receive once you've registered.
   register:
