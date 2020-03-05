@@ -74,6 +74,97 @@ event:
     - image: "images/sponsors/MavProGrant.png"
       title: "Maverick Productions Grant Program"
 
+    - image: "images/sponsors/OrionLogo.png"
+      title: "Orion"
+
+  schedule:
+    - day:
+      value: "Saturday"
+      events:
+        - title: "Check-In Begins"
+          start-time: "7:30 AM"
+          end-time: "N/A"
+          room: "158"
+
+        - title: "Opening Ceremony"
+          start-time: "9:00 AM"
+          end-time: "9:30 AM"
+          room: "158"
+
+        - title: "Team Building"
+          start-time: "9:30 AM"
+          end-time: "10:00 AM"
+          room: "158"
+
+        - title: "Intro to Web Development Workshop"
+          start-time: "10:00 AM"
+          end-time: "11:00 AM"
+          room: "260"
+
+        - title: "Coding Begins"
+          start-time: "10:00 AM"
+          end-time: "10:00 AM"
+
+        - title: "Git Kraken Workshop by MLH"
+          start-time: "11:00 AM"
+          end-time: "12:00 PM"
+          room: "260"
+
+        - title: "Lunch"
+          start-time: "12:00 PM"
+          end-time: "1:00 PM"
+          room: "158"
+
+        - title: "Intro to Web APIs"
+          start-time: "1:30 PM"
+          end-time: "2:30 PM"
+          room: "260"
+
+        - title: "Temperature Sensor Workshop by IEEE"
+          start-time: "3:00 PM"
+          end-time: "4:00 PM"
+          room: "260"
+
+        - title: "Dinner"
+          start-time: "6:00 PM"
+          end-time: "7:00 PM"
+          room: "158"
+
+        - title: "Devpost Workshop"
+          start-time: "8:30 PM"
+          end-time: "9:30 PM"
+          room: "260"
+
+        - title: "Memes Kahoot"
+          start-time: "10:00 PM"
+          end-time: "10:30 PM"
+          room: "158"
+    - day:
+      value: "Sunday"
+      events:
+        - title: "Midnight Snack"
+          start-time: "12:00 AM"
+          end-time: "1:00 AM"
+          room: "158"
+
+        - title: "Breakfast"
+          start-time: "7:00 AM"
+          end-time: "8:00 AM"
+          room: "158"
+
+        - title: "Coding Ends"
+          start-time: "10:00 AM"
+          end-time: "N/A"
+
+        - title: "Judging"
+          start-time: "10:30 AM"
+          end-time: "11:30 AM"
+
+        - title: "Lunch & Closing Ceremony"
+          start-time: "11:30 AM"
+          end-time: "1:00 PM"
+          room: "158"
+
   # Frequently asked questions.
   faq:
     - question: "What is a hackathon?"
@@ -91,10 +182,6 @@ event:
     - question: "Where is the event?"
       answer: >
         The event is being hosted at the Peter Kiewit Institute at the University of Nebraska at Omaha campus in Omaha, Nebraska.
-    #- question: "What is Major League Hacking?"
-    #  answer: >
-    #    Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
-    #    We work with over 200 Member Events and empower over 70,000 students every year.
     - question: "Is there a code of conduct?"
       answer: >
         Yes there is. We enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
@@ -106,7 +193,7 @@ event:
         The theme for HackUNO 2020 is going to be weather!
     - question: "Is there a schedule available?"
       answer: >
-        The schedule for HackUNO 2020 is still being decided.
+        The schedule for HackUNO 2020 can be found above!
     - question: "Will there be prizes?"
       answer: >
         Yes! We are giving out cash prizes! First place team each gets $150. Second place team each gets $100. Third place team each gets $50.
