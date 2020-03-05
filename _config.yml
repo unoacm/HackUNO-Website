@@ -81,7 +81,7 @@ event:
     - day:
       value: "Saturday"
       events:
-        - title: "Check-In Begins"
+        - title: "Check-In Begins with Breakfast - Panera Bagels & Pastries"
           start-time: "7:30 AM"
           end-time: "N/A"
           room: "158"
@@ -110,7 +110,7 @@ event:
           end-time: "12:00 PM"
           room: "260"
 
-        - title: "Lunch"
+        - title: "Lunch - Jason's Deli Community Boxes"
           start-time: "12:00 PM"
           end-time: "1:00 PM"
           room: "158"
@@ -125,7 +125,7 @@ event:
           end-time: "4:00 PM"
           room: "260"
 
-        - title: "Dinner"
+        - title: "Dinner - Hyvee Pasta Bar"
           start-time: "6:00 PM"
           end-time: "7:00 PM"
           room: "158"
@@ -147,7 +147,7 @@ event:
           end-time: "1:00 AM"
           room: "158"
 
-        - title: "Breakfast"
+        - title: "Breakfast - Valentino's Continental Breakfast"
           start-time: "7:00 AM"
           end-time: "8:00 AM"
           room: "158"
@@ -160,7 +160,7 @@ event:
           start-time: "10:30 AM"
           end-time: "11:30 AM"
 
-        - title: "Lunch & Closing Ceremony"
+        - title: "Lunch & Closing Ceremony - Godfather's Pizza"
           start-time: "11:30 AM"
           end-time: "1:00 PM"
           room: "158"
