@@ -55,7 +55,7 @@ layout: default
             <div class="row event">
               <td><strong>{{event.start-time}}</strong></td>
               <td>{{event.title}}</td>
-              <td>{% if event.room %}Room {{event.room}}{% endif %}</td>
+              <td>{% if event.room %}{{event.room}}{% endif %}</td>
             </div>
           </tr>
           {% endfor %}
