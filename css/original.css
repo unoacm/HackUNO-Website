@@ -22,7 +22,7 @@
 }
 
 body {
-  background-color: #76A9F5;
+  background-color: #c3261a;
 }
 
 section {
@@ -58,7 +58,7 @@ section {
 }
 
 .hero hr {
-  border-top: 15px solid #0F2C34;
+  border-top: 15px solid #4a0808;
   margin: 0;
   position: relative;
   top: -14px;
@@ -95,9 +95,9 @@ section {
 
 .hero .buttons a {
   background: #fff;
-  border: 10px solid #0F2C34;
+  border: 10px solid #4a0808;
   border-radius: 40px;
-  color: #0F2C34;
+  color: #4a0808;
   display: inline;
   font-family: Montserrat;
   font-size: 24px;
@@ -109,7 +109,7 @@ section {
 
 .hero .buttons a:hover,
 .hero .buttons a:focus {
-  background-color: #0F2C34;
+  background-color: #4a0808;
   color: #fff;
   transition: all 0.2s ease;
 }
@@ -130,7 +130,7 @@ section {
 }
 
 .about p {
-  color: #0F2C34;
+  color: #4a0808;
   font-weight: 600;
   font-size: 22px;
   line-height: 1.6em;
@@ -219,7 +219,7 @@ section {
 }
 
 .faq .question hr {
-  border-top: 8px solid #0F2C34;
+  border-top: 8px solid #4a0808;
   margin: 20px 0;
   width: 80px;
 }
@@ -240,7 +240,7 @@ section {
  */
 
 .footer {
-  background-color: #08224A;
+  background-color: #4a0808;
   color: #fff;
   padding: 30px 0;
 }
