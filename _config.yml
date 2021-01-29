@@ -73,85 +73,75 @@ event:
       value: "Saturday"
       events:
         - title: "Check-In"
-          start-time: "7:30 AM"
-          end-time: "N/A"
-          room: "Atrium"
-
-        - title: "Career Fair"
-          start-time: "7:30 AM"
-          end-time: "N/A"
-
-        - title: "Breakfast - Panera Bagels & Pastries"
-          start-time: "7:30 AM"
+          start-time: "8:30 AM"
           end-time: "9:00 AM"
-          room: "Room 158"
-
+          room: "Zoom"
 
         - title: "Opening Ceremony"
           start-time: "9:00 AM"
           end-time: "9:30 AM"
-          room: "Room 158"
+          room: "Zoom"
 
         - title: "Team Building"
           start-time: "9:30 AM"
           end-time: "10:00 AM"
-          room: "Room 158"
+          room: "Zoom"
 
-        - title: "Intro to Web Development Workshop"
+        - title: "Intro to Hackathons Workshop"
           start-time: "10:00 AM"
           end-time: "11:00 AM"
-          room: "Room 260"
+          room: "Discord"
 
         - title: "Coding Begins"
           start-time: "10:00 AM"
           end-time: "10:00 AM"
 
-        - title: "Git Kraken Workshop by MLH"
+        - title: "Git Workshop"
           start-time: "11:00 AM"
           end-time: "12:00 PM"
-          room: "Room 260"
+          room: "Discord"
 
-        - title: "Lunch - Jason's Deli Community Boxes"
+        - title: "Fun Break"
           start-time: "12:00 PM"
           end-time: "1:00 PM"
-          room: "Room 158"
+          room: "Discord"
 
         - title: "Intro to Web APIs"
           start-time: "1:30 PM"
           end-time: "2:30 PM"
-          room: "Room 260"
+          room: "Discord"
 
-        - title: "Temperature Sensor Workshop by IEEE"
+        - title: "Workshop TBA"
           start-time: "3:00 PM"
           end-time: "4:00 PM"
-          room: "Room 260"
+          room: "Discord"
 
-        - title: "Dinner - Hyvee Pasta Bar"
+        - title: "Fun Break"
           start-time: "6:00 PM"
           end-time: "7:00 PM"
-          room: "Room 158"
+          room: "Discord"
 
         - title: "Devpost Workshop"
           start-time: "8:30 PM"
           end-time: "9:30 PM"
-          room: "Room 260"
+          room: "Discord"
 
-        - title: "Memes Kahoot"
+        - title: "Hour of Memes"
           start-time: "10:00 PM"
-          end-time: "10:30 PM"
-          room: "Room 158"
+          end-time: "11:00 PM"
+          room: "Discord"
     - day:
       value: "Sunday"
       events:
-        - title: "Midnight Snack"
+        - title: "Fun Break"
           start-time: "12:00 AM"
           end-time: "1:00 AM"
-          room: "Room 158"
+          room: "Discord"
 
-        - title: "Breakfast - Valentino's Continental Breakfast"
+        - title: "Fun Break"
           start-time: "7:00 AM"
           end-time: "8:00 AM"
-          room: "Room 158"
+          room: "Discord"
 
         - title: "Coding Ends"
           start-time: "10:00 AM"
@@ -160,11 +150,12 @@ event:
         - title: "Judging"
           start-time: "10:30 AM"
           end-time: "11:30 AM"
+          room: "Zoom"
 
-        - title: "Lunch & Closing Ceremony - Godfather's Pizza"
+        - title: "Closing Ceremony"
           start-time: "11:30 AM"
-          end-time: "1:00 PM"
-          room: "Room 158"
+          end-time: "12:15 PM"
+          room: "Zoom"
 
   # Frequently asked questions.
   faq:
