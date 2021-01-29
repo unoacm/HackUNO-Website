@@ -68,6 +68,107 @@ event:
     - image: "images/sponsors/werner.png"
       title: "Werner Enterprises"
 
+    - image: "images/sponsors/OrionLogo.png"
+      title: "Orion"
+
+  schedule:
+    - day:
+      value: "Saturday"
+      events:
+        - title: "Check-In"
+          start-time: "7:30 AM"
+          end-time: "N/A"
+          room: "Atrium"
+
+        - title: "Career Fair"
+          start-time: "7:30 AM"
+          end-time: "N/A"
+
+        - title: "Breakfast - Panera Bagels & Pastries"
+          start-time: "7:30 AM"
+          end-time: "9:00 AM"
+          room: "Room 158"
+
+
+        - title: "Opening Ceremony"
+          start-time: "9:00 AM"
+          end-time: "9:30 AM"
+          room: "Room 158"
+
+        - title: "Team Building"
+          start-time: "9:30 AM"
+          end-time: "10:00 AM"
+          room: "Room 158"
+
+        - title: "Intro to Web Development Workshop"
+          start-time: "10:00 AM"
+          end-time: "11:00 AM"
+          room: "Room 260"
+
+        - title: "Coding Begins"
+          start-time: "10:00 AM"
+          end-time: "10:00 AM"
+
+        - title: "Git Kraken Workshop by MLH"
+          start-time: "11:00 AM"
+          end-time: "12:00 PM"
+          room: "Room 260"
+
+        - title: "Lunch - Jason's Deli Community Boxes"
+          start-time: "12:00 PM"
+          end-time: "1:00 PM"
+          room: "Room 158"
+
+        - title: "Intro to Web APIs"
+          start-time: "1:30 PM"
+          end-time: "2:30 PM"
+          room: "Room 260"
+
+        - title: "Temperature Sensor Workshop by IEEE"
+          start-time: "3:00 PM"
+          end-time: "4:00 PM"
+          room: "Room 260"
+
+        - title: "Dinner - Hyvee Pasta Bar"
+          start-time: "6:00 PM"
+          end-time: "7:00 PM"
+          room: "Room 158"
+
+        - title: "Devpost Workshop"
+          start-time: "8:30 PM"
+          end-time: "9:30 PM"
+          room: "Room 260"
+
+        - title: "Memes Kahoot"
+          start-time: "10:00 PM"
+          end-time: "10:30 PM"
+          room: "Room 158"
+    - day:
+      value: "Sunday"
+      events:
+        - title: "Midnight Snack"
+          start-time: "12:00 AM"
+          end-time: "1:00 AM"
+          room: "Room 158"
+
+        - title: "Breakfast - Valentino's Continental Breakfast"
+          start-time: "7:00 AM"
+          end-time: "8:00 AM"
+          room: "Room 158"
+
+        - title: "Coding Ends"
+          start-time: "10:00 AM"
+          end-time: "N/A"
+
+        - title: "Judging"
+          start-time: "10:30 AM"
+          end-time: "11:30 AM"
+
+        - title: "Lunch & Closing Ceremony - Godfather's Pizza"
+          start-time: "11:30 AM"
+          end-time: "1:00 PM"
+          room: "Room 158"
+
   # Frequently asked questions.
   faq:
     - question: "What is a hackathon?"
@@ -91,7 +192,7 @@ event:
     #    We work with over 200 Member Events and empower over 70,000 students every year.
     - question: "Is there a code of conduct?"
       answer: >
-        Yes there is. We enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
+        Yes there is. We enforce it very strongly. You can [find it here](https://www.unomaha.edu/student-life/student-conduct-and-community-standards/_docs/STUDENT-CODE-OF-CONDUCT-2016.pdf).
     - question: "How big can a team be?"
       answer: >
         Teams can be as small as 1 and as large as 3.
@@ -104,7 +205,6 @@ event:
     - question: "Will there be prizes?"
       answer: >
         There will be $2,500+ worth of prizes throughout HackUNO 2021.
-
   # This is the message you'll receive once you've registered.
   register:
     message: >
