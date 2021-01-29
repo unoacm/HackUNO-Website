@@ -68,9 +68,6 @@ event:
     - image: "images/sponsors/werner.png"
       title: "Werner Enterprises"
 
-    - image: "images/sponsors/OrionLogo.png"
-      title: "Orion"
-
   schedule:
     - day:
       value: "Saturday"
