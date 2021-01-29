@@ -23,6 +23,7 @@
 
 body {
   background-color: #c3261a;
+  color: white;
 }
 
 section {
@@ -73,8 +74,8 @@ section {
 }
 
 .hero .wrapper h1 {
-  background: #fff;
-  background: rgba(255, 255, 255, .3);
+  /*background: #fff;
+  background: rgba(255, 255, 255, .3);*/
   display: inline-block;
   font-size: 60px;
   font-weight: 800;
@@ -128,7 +129,7 @@ section {
 
 .about {
   border-width: 15px 0;
-  background-color: #fff;
+  background: rgba(255, 255, 255, .3);
   padding: 130px 0;
   position: relative;
 }
