@@ -36,6 +36,7 @@ event:
   location:    "Virtual from Omaha, NE, United States"
 
   hero:
+    background: "images/HackUNO-site-background.png"
     links:
       - text: "Apply"
         href: "https://forms.gle/QEnz565HzYFNqhuRA"
