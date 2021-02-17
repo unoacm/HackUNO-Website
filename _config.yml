@@ -69,6 +69,9 @@ event:
     - image: "images/sponsors/werner.jpg"
       title: "Werner Enterprises"
 
+    - image: "image/sponsors/Conagra_Brands.jpg"
+      title: "Conagra Brands"
+
   schedule:
     - day:
       value: "Saturday"
