@@ -72,6 +72,9 @@ event:
     - image: "images/sponsors/ConAgra_Brands.jpg"
       title: "Conagra Brands"
 
+    - image: "images/sponsors/OrionLogo.png"
+      title: "Orion"
+
   schedule:
     - day:
       value: "Saturday"
