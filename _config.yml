@@ -75,6 +75,9 @@ event:
     - image: "images/sponsors/OrionLogo.png"
       title: "Orion"
 
+    - image: "images/sponsors/fnbo_1.jpg"
+      title: "First National Bank"
+
   schedule:
     - day:
       value: "Saturday"
