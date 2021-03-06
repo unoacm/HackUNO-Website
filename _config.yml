@@ -121,11 +121,6 @@ event:
           end-time: "2:30 PM"
           room: "Discord"
 
-        - title: "Workshop TBA"
-          start-time: "3:00 PM"
-          end-time: "4:00 PM"
-          room: "Discord"
-
         - title: "Fun Break"
           start-time: "6:00 PM"
           end-time: "7:00 PM"
